@@ -21,8 +21,11 @@ _**Key Features:**_
 _**Skill Set Demonstrated:**_
 
 •	**Programming Languages:** PHP, JavaScript, HTML, CSS
+
 •	**Database Management:** MySQL, SQL
+
 •	**Software Development:** Web application development
+
 •	**User Interface Design:** Bootstrap
 
 _**Contribution:**_
@@ -36,7 +39,7 @@ _**Contribution:**_
 •	Conducted extensive **testing and debugging** to ensure smooth system functionality.
 
 
-2. _**Automation of Lighting System with Arduino On The Basis of Natural Light**_
+**2. _**Automation of Lighting System with Arduino On The Basis of Natural Light**_**
    
 _**Description:**_
 
@@ -57,22 +60,31 @@ _**Key Features:**_
 _**Skill Set Demonstrated:**_
 
 •	**Embedded Systems:** Arduino programming
+
 •	**Hardware Integration:** LDR sensors
+
 •	**Programming Languages:** C++, MATLAB
+
 •	**IoT and Automation:** Smart lighting control systems
 
 _**Contribution:**_
 •	Designed and built the **circuit, integrating LDR sensors with Arduino** for real-time light intensity detection.
+
 •	Developed an **algorithm** for automatic switching of lights based on threshold values.
+
 •	Conducted tests to **optimize energy consumption and responsiveness**.
+
 •	Showcased the project at **CSE Fest**, demonstrating its practical applications.
 
-3. _**Robotics and Coding Workshops (NextGen International Coding & Engineering School)**_
+
+**3. _**Robotics and Coding Workshops (NextGen International Coding & Engineering School)**_**
    
 _**Description:**_
+
 Conducted hands-on robotics and coding workshops for students, teaching **programming concepts and AI-driven** automation.
 
 _**Key Features:**_
+
 •	**Interactive Learning Modules:** Designed workshops covering basic to advanced coding and robotics.
 
 •	**AI and Robotics Exposure:** Introduced AI-driven automation and real-world robotics applications.
@@ -86,17 +98,24 @@ _**Key Features:**_
 _**Skill Set Demonstrated:**_
 
 •	**Teaching & Curriculum Development:** Workshop planning and execution
+
 •	**Programming:** Python, MATLAB, Scratch
+
 •	**Robotics & AI:** Hands-on experience with AI-based automation
+
 
 _**Contribution:**_
 
 •	Developed **structured lesson plans** covering different levels of **coding proficiency**.
+
 •	Conducted engaging and interactive sessions, simplifying complex concepts.
+
 •	Mentored students and provided **career guidance in AI and robotics**.
+
 •	Organized coding competitions and **STEM exhibitions, encouraging hands-on learning**.
 
-4. _**STEM-based Educational Coordination (Project Headway Grammar School)**_
+
+**4. _**STEM-based Educational Coordination (Project Headway Grammar School)**_**
    
 _**Description:**_
 
@@ -125,12 +144,15 @@ _**Skill Set Demonstrated:**_
 _**Contribution:**_
 
 •	Designed and implemented an **AI-focused curriculum** for primary and secondary students.
+
 •	Conducted workshops to **train teachers in AI and coding instruction**.
+
 •	Managed and coordinated **inter-school competitions and STEM events**.
+
 •	Led initiatives to introduce advanced **AI-based learning tools** in classrooms.
 
 
-5. _**Predictive Analysis with Python (Athena Global Education)**_
+**5. _**Predictive Analysis with Python (Athena Global Education)**_**
    
 _**Description:**_
 
@@ -159,9 +181,13 @@ _**Skill Set Demonstrated:**_
 _**Contribution:**_
 
 •	Designed and implemented machine learning models for **predictive analysis**.
+
 •	Conducted **exploratory data analysis (EDA)** to identify key trends.
+
 •	Developed **dashboards and reports showcasing** insights derived from data.
+
 •	Applied the predictive models in practical scenarios, such as **sales forecasting and risk assessment**.
+
 
 This portfolio highlights my expertise in **AI, robotics, automation, and education technology**, demonstrating my strong background in both technical and educational domains.
 
