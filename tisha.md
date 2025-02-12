@@ -23,7 +23,7 @@ An automated system designed to streamline library management by providing a dig
 - Implemented security features to prevent unauthorized access and data breaches.
 - Conducted extensive testing and debugging to ensure smooth system functionality.
 
----
+
 
 ## **2. Automation of Lighting System with Arduino On The Basis of Natural Light**
 ### **Description:**
@@ -48,7 +48,7 @@ A smart lighting system that automates indoor lighting based on ambient natural 
 - Conducted tests to optimize energy consumption and responsiveness.
 - Showcased the project at CSE Fest, demonstrating its practical applications.
 
----
+
 
 ## **3. Robotics and Coding Workshops (NextGen International Coding & Engineering School)**
 ### **Description:**
@@ -72,7 +72,7 @@ Conducted hands-on robotics and coding workshops for students, teaching programm
 - Mentored students and provided career guidance in AI and robotics.
 - Organized coding competitions and STEM exhibitions, encouraging hands-on learning.
 
----
+
 
 ## **4. STEM-based Educational Coordination (Project Headway Grammar School)**
 ### **Description:**
@@ -96,7 +96,6 @@ Oversaw the integration of AI and robotics into school curriculums, facilitating
 - Managed and coordinated inter-school competitions and national STEM events.
 - Led initiatives to introduce advanced AI-based learning tools in classrooms.
 
----
 
 ## **5. Predictive Analysis with Python (Athena Global Education)**
 ### **Description:**
@@ -120,7 +119,6 @@ Developed a predictive analysis model using Python to analyze trends and forecas
 - Developed dashboards and reports showcasing insights derived from data.
 - Applied the predictive models in practical scenarios, such as sales forecasting and risk assessment.
 
----
 
 This portfolio highlights my expertise in AI, robotics, automation, and education technology, demonstrating my strong background in both technical and educational domains.
 
